@@ -1,5 +1,4 @@
-# AI-Recommendation-Logic
-build a ai project which works on customer recommendation 
+
 # AI Recommendation Logic System
 
 A simple Artificial Intelligence Recommendation System built using Python that recommends items based on user preferences using logic-based similarity matching.
